@@ -1,0 +1,9 @@
+i = 4
+d = 4.0
+s = 'HackerRank '
+i1 = 3
+d1 = 2.8
+s1 = 'is my favorite platform!'
+print(int(i + i1))
+print(d+ d1)
+print(s + s1)
